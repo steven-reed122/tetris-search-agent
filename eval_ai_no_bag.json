@@ -1,0 +1,92 @@
+[
+    {
+        "bag_on?": "False",
+        "iteration": 0,
+        "num_lines_cleared": 209,
+        "avg_lines_cleared": 209.0,
+        "score": 29500,
+        "avg_score": 29500.0,
+        "avg_points_per_line_cleared": 141.14832535885168
+    },
+    {
+        "bag_on?": "False",
+        "iteration": 1,
+        "num_lines_cleared": 230,
+        "avg_lines_cleared": 219.5,
+        "score": 35200,
+        "avg_score": 32350.0,
+        "avg_points_per_line_cleared": 147.38041002277905
+    },
+    {
+        "bag_on?": "False",
+        "iteration": 2,
+        "num_lines_cleared": 132,
+        "avg_lines_cleared": 190.33333333333334,
+        "score": 17200,
+        "avg_score": 27300.0,
+        "avg_points_per_line_cleared": 143.4325744308231
+    },
+    {
+        "bag_on?": "False",
+        "iteration": 3,
+        "num_lines_cleared": 5,
+        "avg_lines_cleared": 144.0,
+        "score": 700,
+        "avg_score": 20650.0,
+        "avg_points_per_line_cleared": 143.40277777777777
+    },
+    {
+        "bag_on?": "False",
+        "iteration": 4,
+        "num_lines_cleared": 118,
+        "avg_lines_cleared": 138.8,
+        "score": 17800,
+        "avg_score": 20080.0,
+        "avg_points_per_line_cleared": 144.6685878962536
+    },
+    {
+        "bag_on?": "False",
+        "iteration": 5,
+        "num_lines_cleared": 81,
+        "avg_lines_cleared": 129.16666666666666,
+        "score": 10300,
+        "avg_score": 18450.0,
+        "avg_points_per_line_cleared": 142.83870967741936
+    },
+    {
+        "bag_on?": "False",
+        "iteration": 6,
+        "num_lines_cleared": 330,
+        "avg_lines_cleared": 157.85714285714286,
+        "score": 46300,
+        "avg_score": 22428.571428571428,
+        "avg_points_per_line_cleared": 142.08144796380088
+    },
+    {
+        "bag_on?": "False",
+        "iteration": 7,
+        "num_lines_cleared": 399,
+        "avg_lines_cleared": 188.0,
+        "score": 62200,
+        "avg_score": 27400.0,
+        "avg_points_per_line_cleared": 145.74468085106383
+    },
+    {
+        "bag_on?": "False",
+        "iteration": 8,
+        "num_lines_cleared": 119,
+        "avg_lines_cleared": 180.33333333333334,
+        "score": 14400,
+        "avg_score": 25955.555555555555,
+        "avg_points_per_line_cleared": 143.9309919901417
+    },
+    {
+        "bag_on?": "False",
+        "iteration": 9,
+        "num_lines_cleared": 62,
+        "avg_lines_cleared": 168.5,
+        "score": 8600,
+        "avg_score": 24220.0,
+        "avg_points_per_line_cleared": 143.73887240356083
+    }
+]

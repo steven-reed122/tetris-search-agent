@@ -1,0 +1,9 @@
+Playing Tetris using a Search Algorithm Agent
+
+To run this program, run the main file and follow the prompts.
+A pygame pop up with the game running should appear after all prompts are answered.
+Make sure to download the pygame library before running.
+If the game is running in user input mode, use the arrow codes to input moves.
+If the game is running AI input mode, it should run on its own once the pygame window opens.
+
+All code regarding the AI is in the AI.py and small_tetris.py files.
